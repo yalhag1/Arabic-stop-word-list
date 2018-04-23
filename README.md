@@ -1,3 +1,4 @@
 # Arabic-stop-word-list
 Arabic  stop word list 
-For Arabic Document  classification stop word removal importenr to reducing the dimensionality 
+For Arabic Document  classification There is no standard list for stop word removal
+But the importance of  stop word  removal is to reduce the dimensionality to enhance the accuracy 
